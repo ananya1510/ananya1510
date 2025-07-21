@@ -44,7 +44,7 @@ Full-Stack Development • REST APIs • UI/UX Design • Testing & Debugging
 ---
 
 
-🎯 **Goal-Oriented Lines**
+🎯 **Goals**
 🌟 My mission? Build apps that people actually want to use.
 
 ✨ Striving to create tools that make tech more human.
